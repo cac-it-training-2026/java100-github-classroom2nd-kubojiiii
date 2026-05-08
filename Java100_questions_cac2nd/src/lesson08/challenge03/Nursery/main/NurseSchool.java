@@ -1,6 +1,8 @@
-package lesson08.challenge01;
+package lesson08.challenge03.Nursery.main;
 
-public class NurseSchool {
+import lesson08.challenge03.Nursery.logic.Nurse;
+
+public class NurserySchool {
 
 	public static void main(String[] args) {
 
@@ -20,5 +22,4 @@ public class NurseSchool {
 		System.out.println(child2.getName() + "が登園しました。");
 		System.out.println(child3.getName() + "が登園しました。");
 	}
-
 }
